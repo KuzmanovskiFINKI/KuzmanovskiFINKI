@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="stefankuzmanovski.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.stefankuzmanovski.com)
-[<img align="left" alt="stefankuzmanovski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" />](https://www.linkedin.com/in/stefan-kuzmanovski-450565277/)
+[<img align="left" alt="stefankuzmanovski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/stefan-kuzmanovski-450565277/)
 
 <br />
 
